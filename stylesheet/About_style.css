@@ -9,6 +9,7 @@ ul{
     text-align: center;
     background-color: darkgray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
 }
 
 .Intro{
@@ -96,6 +97,19 @@ h2{
 }
 
 #GD{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    border: 8px solid black;
+}
+
+#Art{
     font-size: 30px;
     margin-bottom: 50px;
     margin-top: 50px;
