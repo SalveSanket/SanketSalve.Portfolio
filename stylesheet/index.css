@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:darkgray;
+}
+
+#About{
+    border: 5px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#Games{
+    border: 5px solid black;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+
+#Art{
+    border: 5px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Links{
+    text-align: right;
+}
+

@@ -1,0 +1,118 @@
+ul{
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+    text-decoration: none;
+}
+
+*{
+    text-align: center;
+    background-color: darkgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Intro{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    margin-left: 150px;
+    margin-right: 150px
+}
+
+h2{
+    font-size: 40px;
+}
+
+#Role{
+    font-size: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 10px solid;
+}
+
+.Headings{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+    border-top-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border: 10px solid black;
+}
+
+.EduHeading{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 10px solid black;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+#Education{
+    text-align: center;
+    font-size: 20px; 
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+
+.SkillHeading{
+    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    border: 10px solid black;
+}
+
+#GD{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    border: 8px solid black;
+}
+
+#GDinfo{
+    font-size: 20px;
+    
+}
+
+#Artinfo{
+    font-size: 20px;
+}
