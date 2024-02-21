@@ -2,7 +2,6 @@ ul{
     margin-left: -40px;
     margin-top: -20px;
     list-style-position: inside;
-    text-decoration: none;
 }
 
 *{
@@ -123,10 +122,44 @@ h2{
 }
 
 #GDinfo{
-    font-size: 20px;
+    font-size: 25px;
     
 }
 
 #Artinfo{
-    font-size: 20px;
+    font-size: 25px;
+}
+
+.SoftHeading{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    border: 8px solid black;
+}
+
+#softinfo{
+    font-size: 25px;
+}
+
+.ProHeading{
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    border: 8px solid black;
+}
+
+#proinfo{
+    font-size: 25px;
 }
