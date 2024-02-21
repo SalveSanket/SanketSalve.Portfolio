@@ -61,8 +61,6 @@ h2{
 
 .EduHeading{
     text-align: center;
-    margin-bottom: 50px;
-    margin-top: 100px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
@@ -75,19 +73,14 @@ h2{
 #Eduinfo{
     text-align: center;
     font-size: 22px; 
-    margin-top: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
+    display: inline-block;
     padding-top: 20px;
     padding-right: 40px;
     padding-bottom: 20px;
 }
 
 .SkillHeading{
-    margin-bottom: 150px;
-    margin-top: 50px;
-    margin-left: 600px;
-    margin-right: 600px;
+    display: inline-block;
     padding-top: 30px;
     padding-left: 50px;
     padding-bottom: 30px;
@@ -96,11 +89,8 @@ h2{
 }
 
 #GD{
+    display: inline-block;
     font-size: 30px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    margin-left: 800px;
-    margin-right: 800px;
     padding-top: 30px;
     padding-left: 50px;
     padding-bottom: 30px;
@@ -110,10 +100,7 @@ h2{
 
 #Art{
     font-size: 30px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    margin-left: 800px;
-    margin-right: 800px;
+    display: inline-block;
     padding-top: 30px;
     padding-left: 50px;
     padding-bottom: 30px;
@@ -123,19 +110,17 @@ h2{
 
 #GDinfo{
     font-size: 22px;
-    
+    display: inline-block;
 }
 
 #Artinfo{
     font-size: 22px;
+    display: inline-block;
 }
 
 .SoftHeading{
     font-size: 30px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    margin-left: 800px;
-    margin-right: 800px;
+    display: inline-block;
     padding-top: 30px;
     padding-left: 50px;
     padding-bottom: 30px;
@@ -145,14 +130,12 @@ h2{
 
 #softinfo{
     font-size: 22px;
+    display: inline-block;
 }
 
 .ProHeading{
     font-size: 30px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    margin-left: 800px;
-    margin-right: 800px;
+    display: inline-block;
     padding-top: 30px;
     padding-left: 50px;
     padding-bottom: 30px;
@@ -162,4 +145,6 @@ h2{
 
 #proinfo{
     font-size: 22px;
+    display: inline-block;
 }
+
