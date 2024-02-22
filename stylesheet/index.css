@@ -1,7 +1,6 @@
 *{
     text-decoration: none;
     background-color:darkgray;
-    background-image: url(../assets/HomePage/themes.jpg);
 }
 
 .Links{
@@ -51,8 +50,10 @@
     text-align: center;
 }
 
-.Homepageimg{
+.myimg{
+    text-align: center;
+    border-radius: 35px;
+    border: 30px solid;
     display: inline-flex;
 }
-       
 
