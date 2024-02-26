@@ -5,10 +5,13 @@
 
 .Links{
     display: inline-flex;
+    display: inline-flex;
     flex-direction: column;
     gap: 30px;
     justify-content: center;
     margin-left: 30px;
+    position: relative;
+    bottom: 175px;
 }
 
 #About{
@@ -60,7 +63,23 @@
     padding-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: relative;
-    left: 600px;
-    top: 500px;
+    left: 850px;
+    top: 150px;
 }
+
+.MainInfo{
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-flex;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    margin-left: 500px;
+    margin-right: 450px;
+    left: 200px;
+    top: 30px;
+}
+
 
