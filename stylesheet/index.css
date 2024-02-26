@@ -11,7 +11,7 @@
     justify-content: center;
     margin-left: 30px;
     position: relative;
-    bottom: 175px;
+    bottom: 185px;
 }
 
 #About{
@@ -51,6 +51,10 @@
 
 .heading {
     text-align: center;
+    display: inline-flex;
+    position: relative;
+    left: 1100px;
+    top: 150px;
 }
 
 
