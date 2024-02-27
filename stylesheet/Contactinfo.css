@@ -2,7 +2,7 @@
     text-align: center;
     background-color: #F8F4EC;
     text-decoration: none;
-
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 ul{
@@ -10,9 +10,11 @@ ul{
 }
 
 .PersonalInformation{
+    font-size: 20px;
     display: inline-flex;
     position: relative;
     top: 300px;
+    right: 50px;
 }
 
 .BackButton{
@@ -21,8 +23,16 @@ ul{
     border:8px solid black;
     padding-right: 20px;
     padding-left: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: inline-flex;
     position: relative;
-    right: 400px;
+    right: 500px;
+    top: 20px;
+}
+
+.ContactHed{
+    font-size: 30px;
+    display: inline-flex;
+    position: relative;
+    left: 50px;
+    top: 300px;
 }
