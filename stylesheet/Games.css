@@ -1,7 +1,6 @@
 *{
     background-color: #F8F4EC;
     text-align: center;
-    /* border-radius: 30px; */
     text-decoration: none;
 }
 
@@ -13,6 +12,48 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: inline-flex;
     position: relative;
-    right: 870px;
-    bottom: 800px;
+    right: 700px;
+    bottom: 830px;
+}
+
+#ReflexHed{
+    display: inline-flex;
+    position: relative;
+    top: 35px;
+}
+
+#ReflexImg{
+    display: inline-flex;
+    position: relative;
+    gap: 30px;
+    top: 100px;
+    bottom: 850px;
+}
+
+#ReflexVid{
+    display: inline-flex;
+    position: relative;
+    top: 190px;
+}
+
+#ReflexGameDescription{
+    display: inline-flexbox;
+    position: relative;
+    top: 160px;
+    padding-right: 15px;
+    padding-left: 150px;
+}
+
+.ReflexGame{
+    display: flexbox;
+    position: relative;
+    top: 250px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.EnemyBehav{
+    display: inline-block;
+    position: relative;
+    top: 500px;
 }
