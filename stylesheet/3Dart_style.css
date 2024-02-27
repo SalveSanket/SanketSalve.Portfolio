@@ -14,5 +14,34 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: inline-flex;
     position: relative;
-    right: 800px;
+    right: 1000px;
+    top: 90px;
+}
+
+.ArtHed{
+    display: inline-flex;
+    position: relative;
+    font-size: 30px;
+    top: 100px;
+}
+
+.Character01Info{
+    display: inline-flex;
+    position: relative;
+    flex-direction: column;
+    top: 200px;
+}
+
+.Character02Info{
+    display: inline-flex;
+    position: relative;
+    flex-direction: column;
+    top: 200px;
+}
+
+.Anotomy01Info{
+    display: inline-flex;
+    position: relative;
+    flex-direction: column;
+    top: 200px;
 }
