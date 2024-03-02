@@ -46,3 +46,9 @@
     flex-direction: column;
     top: 200px;
 }
+
+.Character02Img{
+    display: inline-flex;
+    position: relative;
+    top: 200px;
+}
